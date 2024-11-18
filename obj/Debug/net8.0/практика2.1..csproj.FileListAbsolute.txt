@@ -1,0 +1,14 @@
+C:\Users\виктория\source\repos\практика2.1\практика2.1\obj\Debug\net8.0\практика2.1..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\виктория\source\repos\практика2.1\практика2.1\obj\Debug\net8.0\практика2.1..AssemblyInfoInputs.cache
+C:\Users\виктория\source\repos\практика2.1\практика2.1\obj\Debug\net8.0\практика2.1..AssemblyInfo.cs
+C:\Users\виктория\source\repos\практика2.1\практика2.1\obj\Debug\net8.0\практика2.1..csproj.CoreCompileInputs.cache
+C:\Users\виктория\source\repos\практика2.1\практика2.1\bin\Debug\net8.0\практика2.1..exe
+C:\Users\виктория\source\repos\практика2.1\практика2.1\bin\Debug\net8.0\практика2.1..deps.json
+C:\Users\виктория\source\repos\практика2.1\практика2.1\bin\Debug\net8.0\практика2.1..runtimeconfig.json
+C:\Users\виктория\source\repos\практика2.1\практика2.1\bin\Debug\net8.0\практика2.1..dll
+C:\Users\виктория\source\repos\практика2.1\практика2.1\bin\Debug\net8.0\практика2.1..pdb
+C:\Users\виктория\source\repos\практика2.1\практика2.1\obj\Debug\net8.0\практика2.1..dll
+C:\Users\виктория\source\repos\практика2.1\практика2.1\obj\Debug\net8.0\refint\практика2.1..dll
+C:\Users\виктория\source\repos\практика2.1\практика2.1\obj\Debug\net8.0\практика2.1..pdb
+C:\Users\виктория\source\repos\практика2.1\практика2.1\obj\Debug\net8.0\практика2.1..genruntimeconfig.cache
+C:\Users\виктория\source\repos\практика2.1\практика2.1\obj\Debug\net8.0\ref\практика2.1..dll
